@@ -1,4 +1,5 @@
-# WSC2024_Poster
+# Access to Stroke Facilities in Kerala
+
 Page for the poster titled ***"Access to Stroke Facilities in Kerala:  A Spatial Analysis at the Sub-District Level"*** which was submitted to the 16th World Stroke Congress 2024 @ Abu Dhabi, 23-26th October, 2024
 
 ## Complete List of Authors
